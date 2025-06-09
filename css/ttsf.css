@@ -1,0 +1,5 @@
+/* 字体加载文件 */
+@font-face {
+    font-family: 'Momo';
+    src: url(../files/ttfs/momo.ttf);
+}
